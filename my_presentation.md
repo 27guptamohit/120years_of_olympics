@@ -61,5 +61,8 @@ The next graph shows the number of medals won in a particular year. The first gr
 
 ---
 
+<div id="vis3"></div>
+
+---
 Thank You
 
