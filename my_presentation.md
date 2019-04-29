@@ -37,7 +37,7 @@ From the first Olympics which was hosted in Athens in 1896 to the Olympics in Ri
 
 ---
 
-<!-- .slide: data-background="2.png" data-background-size="1000px"-->
+<!-- .slide: data-background="2.png" data-background-size="500px"-->
 
 ---
 
