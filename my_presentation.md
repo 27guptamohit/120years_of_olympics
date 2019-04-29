@@ -37,6 +37,9 @@ From the first Olympics which was hosted in Athens in 1896 to the Olympics in Ri
 
 ---
 
+<!-- .slide: data-background="2.png" data-background-size="1000px"-->
+
+---
 # Univariate Modification
 
 The following graph tries to show that how the weight and height of the participants varied on the basis of gender along with the medal distribution. The visualization involves univariate modification which makes it possible to see how the trend varied according to the gender.
