@@ -43,6 +43,6 @@ var yourVlSpec3 = {
   }
         }
 
-    ]}
+    ]};
 
 var embedded = vegaEmbed('#vis3', yourVlSpec3);
